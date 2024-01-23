@@ -5,11 +5,13 @@
 .dark-background {
   background-color: #1E1E1E;
   color: white;
+   text-align: center;
 }
 
   .light-background {
     background-color: #c8d2e0;
     color: #1E1E1E;
+     text-align: center;
   }
 
   .wrapper {
